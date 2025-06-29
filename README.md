@@ -13,6 +13,8 @@ Rikka is an anime-style AI assistant that runs entirely on your terminal. Powere
 ---
 
 ## 📦 Installation
-
-```bash
+`
+git clone https://github.com/YOUR_USERNAME/Rikka.git
+cd Rikka
 pip install -r requirements.txt
+`
