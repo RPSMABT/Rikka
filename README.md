@@ -1,6 +1,6 @@
 # 🌸 Rikka — Terminal AI Assistant
 
-Rikka is an anime-style AI assistant that runs entirely on your terminal and speaks using Text-to-Speech (TTS). Powered by local models via Ollama, it works offline after setup.
+Rikka is an anime-style AI assistant that runs entirely on your terminal. Powered by local models via Ollama, it works offline after setup.
 
 ---
 
