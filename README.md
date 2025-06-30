@@ -1,6 +1,6 @@
-# 🌸 Rikka — Terminal AI Assistant
+# 🌸 Rikka — AI Assistant with a personality
 
-Rikka is an anime-style AI assistant that runs entirely on your terminal. Powered by local models via Ollama, it works offline after setup.
+Rikka is an AI assistant that can run entirely on your terminal or IDE. Powered by local models via Ollama, it works offline after setup.
 
 ---
 
@@ -8,7 +8,8 @@ Rikka is an anime-style AI assistant that runs entirely on your terminal. Powere
 
 - Python 3.9 or newer
 - [Ollama](https://ollama.com) installed and running
-- Model downloaded (e.g., `gemma:2b`)
+- Current model is //`phi3:mini`\\
+- Model downloaded (e.g., `gemma:2b`) //used in Version 0.01
 
 ---
 
