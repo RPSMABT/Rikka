@@ -1,2 +1,3 @@
-ollama
-pyttsx3
+ollama // required to run a llm locally
+  - Model needed for this ver is "phi3:mini" // requires ollama
+pyttsx3 // not being used currently 
