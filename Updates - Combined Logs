@@ -1,0 +1,38 @@
+Date: June 28, 2025
+Developer: RPSMABT
+Project: Rikka – Local AI Assistant
+
+Launch Summary
+This is the first official release of Rikka, a terminal-based anime-styled smart assistant powered by a local LLM via Ollama. Rikka is designed to be expressive, helpful, and capable of chatting with the user (Yuta) while maintaining local privacy and simplicity.
+
+Features (v0.01)
+LLM Integration: Local model (gemma:2b) via Ollama
+
+Conversation Memory: Short chat history for context
+
+Custom System Prompt:
+
+“You are Rikka, an anime-styled smart assistant. You are friendly, expressive, and helpful. Use emojis very rarely. When asked your name, always say ‘Rikka’. The user’s name is Yuta.”
+
+Terminal-Based Chat Interface
+
+Fully Offline and lightweight
+
+Keeps only last 6 messages to improve performance
+
+Goals
+Create a local AI assistant with a consistent anime-styled identity
+
+Keep resource usage minimal (suited for low-RAM systems)
+
+Prepare the codebase for future GUI and voice expansion
+
+Make the experience feel personal with custom prompt and name memory
+
+Next Plans
+Add optional GUI (Tkinter or PyQt)
+
+Model switcher (e.g., gemma / phi / openhermes)
+
+Improve personality tuning and context awareness
+
